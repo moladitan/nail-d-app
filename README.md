@@ -1,3 +1,11 @@
-# nail-d-app
-Nail'd - AI Custom Nail Design App
-AI-powered custom press-on nails delivered to your door. Scan your nails, customize your design, and receive salon-quality press-ons in 5-7 days.
+
+  # Nail'd App Wireframe Guide
+
+  This is a code bundle for Nail'd App Wireframe Guide. The original project is available at https://www.figma.com/design/aWwgphisaO2D59C60CzSmQ/Nail-d-App-Wireframe-Guide.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
